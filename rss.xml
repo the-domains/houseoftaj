@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HouseofTaj]]></title>
+        <description><![CDATA[HouseofTaj]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 23:02:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coming Soon For Sale ]]></title>
+            <description><![CDATA[<article><h1>Coming Soon For Sale </h1><p>Green Rehab in Encinitas</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f48f7c0-661d-4858-8610-d8f586b98848.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f48f7c0-661d-4858-8610-d8f586b98848.jpg</link>
+            <guid isPermaLink="false">0ff99a8e-07e4-47b6-b6c7-de293eac0b5e</guid>
+            <pubDate>Wed, 13 Jul 2016 23:02:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
